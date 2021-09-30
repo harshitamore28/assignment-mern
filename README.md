@@ -1,5 +1,5 @@
 This is a MERN Project to make a food discovery Single Page Application.
-JWT token is used for login and register, and the value is stored in local storage, when gets erased when logged out.
+JWT token is used for login and register, and the value is stored in local storage, which gets erased when logged out.
 MongoDB is used in the backend to get the details of the query form and the registered users.
 Redux-saga is used for the API call to list the restaurants from the backend.
 Testing of express API is done in frontend.
